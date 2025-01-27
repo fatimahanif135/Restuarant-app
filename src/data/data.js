@@ -10,13 +10,13 @@ import karahi from "../Images/karahi.jpg"
 import kebab from "../Images/kebab.png";
 
 export const MenuList = [
-  {
-    name: "Dosa",
-    description:
-      "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
-    image: Dosa,
-    price: 200,
-  },
+  // {
+  //   name: "Dosa",
+  //   description:
+  //     "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Placeat, ab!",
+  //   image: Dosa,
+  //   price: 200,
+  // },
   {
     name: "Chola",
     description:
